@@ -1,0 +1,71 @@
+[33mcommit cd5c8cd5a7ab1dd6804252ff04fc65aac45ecc60[m[33m ([m[1;36mHEAD -> [m[1;32mdemo[m[33m)[m
+Author: vi9nineix <vi9nineix@gmail.com>
+Date:   Mon Sep 4 01:03:53 2017 +0700
+
+    remove un-used file
+
+[33mcommit b510cad4823d957dc391f3c321afa0823b9926ac[m[33m ([m[1;32mmaster[m[33m)[m
+Author: wi9 <wi9@wi9.local>
+Date:   Mon Sep 4 21:44:01 2017 +0700
+
+    update versioncode , add xmlns:tool in manifest
+
+[33mcommit f654fd2bada9116129ad5123c9510b553c016604[m
+Author: wi9 <wi9@wi9.local>
+Date:   Mon Sep 4 20:17:23 2017 +0700
+
+    change miss spelling title
+
+[33mcommit 6835fa1135cd8e05d441e150f0f4e9dee2e39cb7[m
+Author: wi9 <wi9@wi9.local>
+Date:   Mon Sep 4 19:21:59 2017 +0700
+
+    change google map key
+
+[33mcommit 67bb1061e3948fb189b17f5095d4a3ff11d8a8b2[m
+Author: wi9 <wi9@wi9.local>
+Date:   Thu Aug 24 15:56:34 2017 +0700
+
+    remove unused code
+
+[33mcommit 6d469337b7c8ac61dd62adb2a3153bfa89affc9d[m
+Author: wi9 <wi9@wi9.local>
+Date:   Thu Aug 24 14:04:22 2017 +0700
+
+    merge branch
+
+[33mcommit 01ad317c4283a305db7c66bb735e639b3dae3a28[m
+Author: wi9 <wi9@wi9.local>
+Date:   Sun Aug 20 13:34:17 2017 +0700
+
+    update relam file and fix bug button click , fixbug nav animation
+
+[33mcommit ecaa7b8ed069a98eb4564446e24c65e0073dcbf1[m
+Author: wi9 <wi9@wi9.local>
+Date:   Fri Aug 18 17:32:59 2017 +0700
+
+    mod permisssion location for android
+
+[33mcommit 75beff2a34b0c34637295f62a8df3f664b3f9282[m
+Author: wi9 <wi9@wi9.local>
+Date:   Fri Aug 18 17:04:31 2017 +0700
+
+    add nearBusStop page
+
+[33mcommit ad4c209238db1f7992910cb687ad2eb346e07c43[m
+Author: wi9 <wi9@wi9.local>
+Date:   Wed Aug 16 22:13:49 2017 +0700
+
+    add icon in home , add Menu , adjust tab for android
+
+[33mcommit cc0410a00ab017c763cb643c8aee23991be60230[m
+Author: wi9 <wi9@wi9.local>
+Date:   Tue Aug 15 13:53:30 2017 +0700
+
+    Add Icon app
+
+[33mcommit 6925a209a3f9d65c5f854e5aa1b5d2a12c384195[m
+Author: wi9 <wi9@wi9.local>
+Date:   Mon Aug 14 15:39:15 2017 +0700
+
+    init setup work
